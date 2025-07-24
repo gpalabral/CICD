@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Pipeline desde GithubActions para DockerHub - 23 Julio 2025 8:54pm" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Update para Jenkins y para GitHub Actions - 23 Julio 2025 9:02pm" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
