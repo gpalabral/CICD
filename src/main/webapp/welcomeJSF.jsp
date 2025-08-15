@@ -23,7 +23,7 @@
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="Todos los productos" id="linkProds" />
                 <br/>
-                <h:commandLink action="#{product.listSetup}" value="All Categories Items" id="linkCats" />
+                <h:commandLink action="#{product.listSetup}" value="Listado de Categorias" id="linkCats" />
 
                 <br/>
             </h:form>
