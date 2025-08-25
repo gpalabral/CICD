@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="pipeline CI/CD !! - Update para Jenkins - 20 Julio 2025 10:42pm" /></h1>
+                <h1><h:outputText value="pipeline CI/CD  Mauri!! - Update para Jenkins - 20 Julio 2025 10:42pm" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="Todos los productos" id="linkProds" />
                 <br/>
