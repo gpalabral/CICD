@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="pipeline CI/CD 2025_2!! - Update para GitActions - Julio 2025 10:42pm" /></h1>
+                <h1><h:outputText value="pipeline CI/CD 2025_2!! - Update para GitActions - Agosto 26 2025 10:08 am" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="Todos los productos" id="linkProds" />
                 <br/>
