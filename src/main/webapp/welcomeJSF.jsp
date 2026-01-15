@@ -19,11 +19,11 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Update para Jenkins y para GitHub Actions - 23 Julio 2025 9:02pm" /></h1>
+                <h1><h:outputText value="pipeline CI/CD dia 28!! - Update para GitActions - Septiembre 11 2025 10:08 am" /></h1>
                 <br/>
-                <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
+                <h:commandLink action="#{product.listSetup}" value="Todos los productos" id="linkProds" />
                 <br/>
-                <h:commandLink action="#{product.listSetup}" value="All Categories Items" id="linkCats" />
+                <h:commandLink action="#{product.listSetup}" value="Listado de Categorias" id="linkCats" />
 
                 <br/>
             </h:form>
