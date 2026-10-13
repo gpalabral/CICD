@@ -39,7 +39,7 @@ public class ProductTest {
         
         controller.create();
         
-        assertEquals(new Product(2), controller.getProductItems().get(0));
+        assertEquals(product, controller.getProductItems().get(0));
         
     }
     
